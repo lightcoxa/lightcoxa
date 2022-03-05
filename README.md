@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋 I'm Andre!
 
 ![status](https://discord-to-github-status.herokuapp.com/status/217963862245244928)
 ![spotify](https://discord-to-github-status.herokuapp.com/spotify/217963862245244928)
