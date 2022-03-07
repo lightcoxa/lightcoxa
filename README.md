@@ -1,9 +1,9 @@
 ### Hello there 👋 I'm Andre!
 
-![status](http://dev.andreyap.com/status/217963862245244928)
-![spotify](http://dev.andreyap.com/spotify/217963862245244928)
-![vscode](http://dev.andreyap.com/vscode/217963862245244928)
-![playing](http://dev.andreyap.com/playing/217963862245244928)
+![status](http://dev.andreyap.com/status/217963862245244928?)
+![spotify](http://dev.andreyap.com/spotify/217963862245244928?)
+![vscode](http://dev.andreyap.com/vscode/217963862245244928?)
+![playing](http://dev.andreyap.com/playing/217963862245244928?)
 
 <!--
 **lightcoxa/lightcoxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
